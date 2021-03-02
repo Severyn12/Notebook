@@ -1,0 +1,39 @@
+1 @ file:///C:/Users/sever/Music/help/dist/1-0.0.1-py3-none-any.whl
+astroid==2.4.2
+autopep8==1.5.5
+bookfilm-search-Severyn-Peleshko @ file:///C:/Users/sever/Music/project/dist/bookfilm_search_Severyn_Peleshko-0.0.1-py3-none-any.whl
+branca==0.4.2
+certifi==2020.6.20
+chardet==4.0.0
+click==7.1.2
+colorama==0.4.3
+fastapi==0.63.0
+film-book-search @ file:///C:/Users/sever/Music/proect/dist/film_book_search-0.0.1-py3-none-any.whl
+film-book-search-Severyn-Peleshko @ file:///C:/Users/sever/Music/proect/dist/film_book_search_Severyn_Peleshko-0.0.1-py3-none-any.whl
+filmbooksearch-Severyn-Peleshko @ file:///C:/Users/sever/Music/proect/dist/filmbooksearch_Severyn_Peleshko-0.0.1-py3-none-any.whl
+Flask==1.1.2
+folium==0.12.1
+geographiclib==1.50
+geopy==2.1.0
+idna==2.10
+isort==5.5.2
+itsdangerous==1.1.0
+Jinja2==2.11.3
+lazy-object-proxy==1.4.3
+MarkupSafe==1.1.1
+mccabe==0.6.1
+numpy==1.19.4
+pandas==1.1.4
+proect @ file:///C:/Users/sever/Music/fol/dist/proect-0.0.1-py3-none-any.whl
+pycodestyle==2.6.0
+pydantic==1.7.3
+pylint==2.6.0
+python-dateutil==2.8.1
+pytz==2020.4
+requests==2.25.1
+six==1.15.0
+starlette==0.13.6
+toml==0.10.1
+urllib3==1.26.3
+Werkzeug==1.0.1
+wrapt==1.12.1
